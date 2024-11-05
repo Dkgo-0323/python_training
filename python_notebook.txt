@@ -1,0 +1,5 @@
+In Python, you can use data structures such as lists, tuples, dictionaries, and more.
+In Python, you can utilize object-oriented programming methods.
+In Python, you can perform data processing and machine learning tasks.
+In Python, you can engage in interactive programming.
+In Python, you can read files.
